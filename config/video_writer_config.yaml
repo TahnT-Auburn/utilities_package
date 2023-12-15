@@ -1,0 +1,7 @@
+/**:
+  ros__parameters:
+    input_path: "/home/tahnt/T3_Repos/post_process_packages/ros2_ws/src/utilities_package/frames"
+    frame_name: "/frame"
+    extension: ".jpg"
+    output_path: "/home/tahnt/T3_Repos/post_process_packages/ros2_ws/src/utilities_package/output/example_video.mp4"
+    fps: 30.0
